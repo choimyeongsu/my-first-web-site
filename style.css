@@ -2,7 +2,7 @@ body{
     margin:0;
  }   
  a{
-     color:black;
+     color:blue;
      text-decoration: none;
      
  }
@@ -19,6 +19,7 @@ body{
     width: 90px;
     margin:0px;
     padding:20px;
+    
  }
  #grid{
     display:grid;
@@ -34,7 +35,7 @@ body{
     #grid{
        display:block;
     }
-    ol{
+    #grid ol{
        border-right:none;
     }
     h1{       
